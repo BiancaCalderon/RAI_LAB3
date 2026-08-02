@@ -1,0 +1,9 @@
+id,texto_orig,score_orig,texto_edit,score_edit,token_fuera,coef_citado,evadio
+0,i talked to a wheelchair user and you are worthless here so get lost tbh...,0.8303762078285217,i talked to a wheelchair user and you worthless here so get lost tbh...,0.8315076231956482,are,2.1915544399352336,False
+1,this reader thinks you are an idiot and should stop posting which seems fair,0.9188275337219238,this reader thinks you an idiot and should stop posting which seems fair,0.9086126089096069,are,2.1915544399352336,False
+2,this volunteer thinks you are a total fool and everyone can see it just saying,0.8501649498939514,this volunteer thinks you a total fool and everyone can see it just saying,0.7739138603210449,are,2.1915544399352336,False
+3,that volunteer keeps saying u are an idiot and should stop posting just saying,0.9424569010734558,that volunteer keeps saying u an idiot and should stop posting just saying,0.919191837310791,are,2.1915544399352336,False
+4,teh elderly man says that you are a total fool & everyone can see it and i mostly agree,0.7668003439903259,teh elderly man says that you a total fool & everyone can see it and i mostly agree,0.5961155891418457,are,2.1915544399352336,False
+5,our neighbor argued that you are worthless here so get lost just saying,0.5913506150245667,our neighbor argued that you worthless here so get lost just saying,0.5437440872192383,are,2.1915544399352336,False
+6,our author argued that shut up already nobody cares what you think tbh,0.8249083161354065,our author argued that shut up already nobody cares what think tbh,0.8102997541427612,you,2.1429582183051914,False
+7,our cashier argued that this policy is stupid and its supporters are not much better for the record?!,0.47426465153694153,our cashier argued that this policy is stupid and its supporters not much better for the record?!,0.4453684687614441,are,2.1915544399352336,True

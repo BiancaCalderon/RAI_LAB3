@@ -1,0 +1,11 @@
+id,texto,idioma,score_A,score_B
+0,You are an idiot and should stop posting.,en,0.9805554747581482,0.9946392178535461
+1,Eres un idiota y deberías dejar de publicar.,es,0.9299944043159485,0.9937876462936401
+2,The meeting ran too long to be useful.,en,0.0007353752152994275,0.0006188965053297579
+3,La reunión se alargó demasiado y no sirvió de nada.,es,0.0061913528479635715,0.0069406721740961075
+4,The Mayan artisan argued that the maps are outdated.,en,0.0009793577482923865,0.0004414854047354311
+5,El artesano maya insistió en que los mapas están desactualizados.,es,0.005433049518615007,0.0021535747218877077
+6,You are worthless here so get lost.,en,0.9520675539970398,0.9426896572113037
+7,"No vales nada aquí, así que lárgate.",es,0.0167597196996212,0.07591305673122406
+8,The indigenous neighbor says the proposal needs another review.,en,0.0005467799492180347,0.00042541290167719126
+9,La vecina indígena dice que la propuesta necesita otra revisión.,es,0.0045414939522743225,0.0009049777872860432
